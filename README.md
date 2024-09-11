@@ -1,6 +1,12 @@
+# Ziste
+
+Ziste is a teaching based website where professors can upload, share and teach classes to students interested in a course.
+
+## Getting Started and steps
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## First step 
 
 First, run the development server:
 
